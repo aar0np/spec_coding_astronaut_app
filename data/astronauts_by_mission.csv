@@ -1,0 +1,71 @@
+mission_name,astronaut_name,birthplace,dob,mission_end_date,mission_start_date,nasa_group_id,nasa_group_year,university_name,ship_name
+Apollo 11,Buzz Aldrin,"Montclair, NJ",1930-01-20,1969-07-24 21:50:35.000+0000,1969-07-16 18:32:00.000+0000,3,1963,US Military Academy,Columbia
+Apollo 11,Michael Collins,"Rome, Italy",1930-10-31,1969-07-24 21:50:35.000+0000,1969-07-16 18:32:00.000+0000,3,1963,US Military Academy,Columbia
+Apollo 11,Neil Armstrong,"Wapakoneta, OH",1930-08-05,1969-07-24 21:50:35.000+0000,1969-07-16 18:32:00.000+0000,2,1962,Purdue University,Columbia
+Apollo 15,Alfred Worden,"Jackson, MI",1932-02-07,1971-08-08 01:45:53.000+0000,1971-07-26 18:34:00.000+0000,,,US Military Academy,Endeavor
+Apollo 15,Dave Scott,"San Antonio, TX",1932-06-06,1971-08-08 01:45:53.000+0000,1971-07-26 18:34:00.000+0000,3,1963,US Military Academy,Endeavor
+Apollo 15,James Irwin,"Colorado Springs, CO",1930-03-17,1971-08-08 01:45:53.000+0000,1971-07-26 18:34:00.000+0000,,,US Naval Academy,Endeavor
+Gemini 4,Ed White,"San Antonio, TX",1930-11-14,1965-06-07 22:12:11.000+0000,1965-06-03 20:15:59.000+0000,2,1962,US Military Academy,Gemini 4
+Gemini 4,Jim McDivitt,"Chicago, IL",1929-06-10,1965-06-07 22:12:11.000+0000,1965-06-03 20:15:59.000+0000,2,1962,University of Michigan,Gemini 4
+Apollo 14,Alan Shepard,"Derry, NH",1923-11-18,1971-01-31 21:05:00.000+0000,1971-01-31 21:03:02.000+0000,,,US Naval Academy,Kitty Hawk
+Apollo 14,Edgar Mitchell,"Hereford, TX",1930-09-17,1971-01-31 21:05:00.000+0000,1971-01-31 21:03:02.000+0000,,,MIT,Kitty Hawk
+Apollo 14,Stuart Roosa,"Durango, CO",1933-08-16,1971-01-31 21:05:00.000+0000,1971-01-31 21:03:02.000+0000,,,University of Colorado - Boulder,Kitty Hawk
+Gemini 5,Gordon Cooper,"Shawnee, OK",1927-03-06,1965-08-29 17:55:13.000+0000,1965-08-21 18:59:59.000+0000,1,1959,Air Force Institute of Technology,Gemini 5
+Gemini 5,Pete Conrad,"Philadelphia, PA",1930-05-02,1965-08-29 17:55:13.000+0000,1965-08-21 18:59:59.000+0000,2,1962,Princeton University,Gemini 5
+Apollo 13,Fred Haise,"Biloxi, MS",1933-11-14,1970-04-18 00:07:41.000+0000,1970-04-12 01:13:00.000+0000,3,1963,University of Oklahoma,Odyssey
+Apollo 13,Jack Swigert,"Denver, CO",1931-08-30,1970-04-18 00:07:41.000+0000,1970-04-12 01:13:00.000+0000,3,1963,University of Colorado,Odyssey
+Apollo 13,Jim Lovell,"Cleveland, OH",1928-03-25,1970-04-18 00:07:41.000+0000,1970-04-12 01:13:00.000+0000,2,1962,US Naval Academy,Odyssey
+Skylab 2,Pete Conrad,"Philadelphia, PA",1930-05-02,1973-06-22 18:49:48.000+0000,1973-05-25 05:00:00.000+0000,2,1962,Princeton University,Skylab 2
+Skylab 2,Joseph Kerwin,"Oak Park, IL",1932-02-19,1973-06-22 18:49:48.000+0000,1973-05-25 05:00:00.000+0000,2,1962,College of the Holy Cross,Skylab 2
+Skylab 2,Paul Weitz,"Erie, PA",1933-07-25,1973-06-22 18:49:48.000+0000,1973-05-25 05:00:00.000+0000,2,1962,Pennsylvania State University,Skylab 2
+Gemini 10,John Young,"San Francisco, CA",1930-09-24,1966-07-22 02:07:05.000+0000,1966-07-19 03:20:26.000+0000,2,1962,Georgia Institute of Technology,Gemini X
+Gemini 10,Michael Collins,"Rome, Italy",1930-10-31,1966-07-22 02:07:05.000+0000,1966-07-19 03:20:26.000+0000,3,1963,US Military Academy,Gemini X
+Mercury 7,Scott Carpenter,"Denver, CO",1925-05-01,1962-05-24 17:41:05.000+0000,1962-05-24 12:45:00.000+0000,,,University of Colorado - Boulder,Aurora 7
+Apollo 7,Don Eisele,"Columbus, OH",1930-06-23,1968-10-22 16:11:48.000+0000,1968-10-11 20:02:45.000+0000,3,1964,US Naval Academy,Apollo 7
+Apollo 7,Wally Schirra,"Hackensack, NJ",1923-03-12,1968-10-22 16:11:48.000+0000,1968-10-11 20:02:45.000+0000,1,1959,US Naval Academy,Apollo 7
+Apollo 7,Walter Cunningham,"Creston, IA",1933-03-16,1968-10-22 16:11:48.000+0000,1968-10-11 20:02:45.000+0000,3,1964,University of California - Los Angeles,Apollo 7
+Mercury 6,John Glenn,"Cambridge, OH",1921-07-18,1962-02-20 19:44:23.000+0000,1962-02-20 14:47:00.000+0000,,,Muskingum University,Friendship 7
+STS-1 (Columbia),John Young,"San Francisco, CA",1930-09-24,1981-04-15 00:20:57.000+0000,1981-04-12 18:00:04.000+0000,2,1962,Georgia Institute of Technology,Columbia
+Gemini 7,Frank Borman,"Gary, IN",1928-03-14,1965-12-18 20:05:04.000+0000,1965-12-05 01:30:03.000+0000,2,1962,US Military Academy,Gemini 7
+Gemini 7,Jim Lovell,"Cleveland, OH",1928-03-25,1965-12-18 20:05:04.000+0000,1965-12-05 01:30:03.000+0000,2,1962,US Naval Academy,Gemini 7
+STS-9 (Columbia),John Young,"San Francisco, CA",1930-09-24,1983-12-09 05:47:24.000+0000,1983-11-28 22:00:00.000+0000,2,1962,Georgia Institute of Technology,Columbia
+Gemini 6,Tom Stafford,"Weatherford, OK",1930-09-17,1965-12-16 21:28:50.000+0000,1965-12-15 19:37:26.000+0000,2,1962,US Naval Academy,Gemini 6
+Gemini 6,Wally Schirra,"Hackensack, NJ",1923-03-12,1965-12-16 21:28:50.000+0000,1965-12-15 19:37:26.000+0000,1,1959,US Naval Academy,Gemini 6
+Mercury 4,Gus Grissom,"Mitchell, IN",1926-04-03,1961-07-21 17:36:13.000+0000,1961-07-21 17:20:36.000+0000,1,1959,Purdue University,Liberty Bell 7
+Apollo 1,Ed White,"San Antonio, TX",1930-11-14,1967-02-22 05:31:19.000+0000,1967-02-22 00:00:00.000+0000,2,1962,US Military Academy,Apollo 1
+Apollo 1,Gus Grissom,"Mitchell, IN",1926-04-03,1967-02-22 05:31:19.000+0000,1967-02-22 00:00:00.000+0000,1,1959,Purdue University,Apollo 1
+Apollo 1,Roger Chaffee,"GRAND RAPIDS, MI",1935-02-15,1967-02-22 05:31:19.000+0000,1967-02-22 00:00:00.000+0000,3,1963,Purdue University,Apollo 1
+Mercury 9,Gordon Cooper,"Shawnee, OK",1927-03-06,1963-05-16 23:23:49.000+0000,1963-05-15 13:04:00.000+0000,1,1959,US Naval Academy,Faith 7
+Apollo-Soyuz Test Project,Tom Stafford,"Weatherford, OK",1930-09-17,1975-07-25 02:18:00.000+0000,1975-07-16 00:50:00.000+0000,2,1962,US Naval Academy,Apollo
+Apollo-Soyuz Test Project,Deke Slayton,"Sparta, WI",1924-03-01,1975-07-25 02:18:00.000+0000,1975-07-16 00:50:00.000+0000,1,1959,University of Minnesota,Apollo
+Apollo-Soyuz Test Project,Vance Brand,"Longmount, CO",1931-05-09,1975-07-25 02:18:00.000+0000,1975-07-16 00:50:00.000+0000,1,1959,University of Colorado,Apollo
+Mercury 8,Wally Schirra,"Hackensack, NJ",1923-03-12,1962-10-03 21:28:15.000+0000,1962-10-03 12:15:00.000+0000,1,1959,US Naval Academy,Sigma 7
+Gemini 3,Gus Grissom,"Mitchell, IN",1926-04-03,1965-03-23 23:16:31.000+0000,1965-03-23 20:24:00.000+0000,1,1959,Purdue University,Molly Brown
+Gemini 3,John Young,"San Francisco, CA",1930-09-24,1965-03-23 23:16:31.000+0000,1965-03-23 20:24:00.000+0000,2,1962,Georgia Institute of Technology,Molly Brown
+Apollo 10,Gene Cernan,"Chicago, IL",1934-03-14,1969-05-25 21:52:23.000+0000,1969-05-18 21:49:00.000+0000,3,1963,Purdue University,Charlie Brown
+Apollo 10,John Young,"San Francisco, CA",1930-09-24,1969-05-25 21:52:23.000+0000,1969-05-18 21:49:00.000+0000,2,1962,Georgia Institute of Technology,Charlie Brown
+Apollo 10,Tom Stafford,"Weatherford, OK",1930-09-17,1969-05-25 21:52:23.000+0000,1969-05-18 21:49:00.000+0000,2,1962,US Naval Academy,Charlie Brown
+Apollo 16,Charles Duke,"Charlotte, NC",1935-10-03,1972-04-28 01:45:05.000+0000,1972-04-16 23:54:00.000+0000,,,US Naval Academy,Casper
+Apollo 16,John Young,"San Francisco, CA",1930-09-24,1972-04-28 01:45:05.000+0000,1972-04-16 23:54:00.000+0000,2,1962,Georgia Institute of Technology,Casper
+Apollo 16,Ken Mattingly,"Chicago, IL",1936-03-17,1972-04-28 01:45:05.000+0000,1972-04-16 23:54:00.000+0000,,,Auburn University,Casper
+Gemini 9,Gene Cernan,"Chicago, IL",1934-03-14,1966-06-06 19:00:23.000+0000,1966-06-03 18:39:33.000+0000,3,1963,Purdue University,Gemini 9
+Gemini 9,Tom Stafford,"Weatherford, OK",1930-09-17,1966-06-06 19:00:23.000+0000,1966-06-03 18:39:33.000+0000,2,1962,US Naval Academy,Gemini 9
+Mercury 3,Alan Shepard,"Derry, NH",1923-11-18,1961-05-05 14:49:22.000+0000,1961-05-05 14:34:00.000+0000,,,US Naval Academy,Freedom 7
+Gemini 8,Dave Scott,"San Antonio, TX",1932-06-06,1966-03-17 09:22:28.000+0000,1966-03-16 22:41:02.000+0000,3,1963,US Military Academy,Gemini 8
+Gemini 8,Neil Armstrong,"Wapakoneta, OH",1930-08-05,1966-03-17 09:22:28.000+0000,1966-03-16 22:41:02.000+0000,2,1962,Purdue University,Gemini 8
+Gemini 11,Pete Conrad,"Philadelphia, PA",1930-05-02,1966-09-15 18:59:35.000+0000,1966-09-12 19:42:26.000+0000,2,1962,Princeton University,Gemini 11
+Gemini 11,Richard Gordon,"Seattle, WA",1929-10-05,1966-09-15 18:59:35.000+0000,1966-09-12 19:42:26.000+0000,3,1963,University of Washington,Gemini 11
+Gemini 12,Buzz Aldrin,"Montclair, NJ",1930-01-20,1966-11-16 01:21:04.000+0000,1966-11-12 02:46:33.000+0000,3,1963,US Military Academy,Gemini 12
+Gemini 12,Jim Lovell,"Cleveland, OH",1928-03-25,1966-11-16 01:21:04.000+0000,1966-11-12 02:46:33.000+0000,2,1962,US Naval Academy,Gemini 12
+Apollo 12,Alan Bean,"Wheeler, TX",1932-03-15,1969-11-25 02:58:24.000+0000,1969-11-14 22:22:00.000+0000,3,1963,University of Texas - Austin,Yankee Clipper
+Apollo 12,Pete Conrad,"Philadelphia, PA",1930-05-02,1969-11-25 02:58:24.000+0000,1969-11-14 22:22:00.000+0000,2,1962,Princeton University,Yankee Clipper
+Apollo 12,Richard Gordon,"Seattle, WA",1929-10-05,1969-11-25 02:58:24.000+0000,1969-11-14 22:22:00.000+0000,3,1963,University of Washington,Yankee Clipper
+Apollo 17,Gene Cernan,"Chicago, IL",1934-03-14,1972-12-20 01:54:58.000+0000,1972-12-07 11:33:00.000+0000,3,1963,Purdue University,America
+Apollo 17,Harrison Schmitt,"Santa Rita, NM",1935-07-03,1972-12-20 01:54:58.000+0000,1972-12-07 11:33:00.000+0000,,,Caltech,America
+Apollo 17,Ronald Evans,"St. Francis, KS",1933-11-10,1972-12-20 01:54:58.000+0000,1972-12-07 11:33:00.000+0000,,,University of Kansas,America
+Apollo 9,Dave Scott,"San Antonio, TX",1932-06-06,1969-03-13 23:00:54.000+0000,1969-03-03 22:00:00.000+0000,3,1963,US Military Academy,Gumdrop
+Apollo 9,Jim McDivitt,"Chicago, IL",1929-06-10,1969-03-13 23:00:54.000+0000,1969-03-03 22:00:00.000+0000,2,1962,University of Michigan,Gumdrop
+Apollo 9,Russ Schweickart,"Neptune, NJ",1935-10-25,1969-03-13 23:00:54.000+0000,1969-03-03 22:00:00.000+0000,3,1963,MIT,Gumdrop
+Apollo 8,Bill Anders,Hong Kong,1933-10-17,1968-12-27 21:51:42.000+0000,1968-12-21 18:51:00.000+0000,3,1963,US Naval Academy,Apollo 8
+Apollo 8,Frank Borman,"Gary, IN",1928-03-14,1968-12-27 21:51:42.000+0000,1968-12-21 18:51:00.000+0000,2,1962,US Military Academy,Apollo 8
+Apollo 8,Jim Lovell,"Cleveland, OH",1928-03-25,1968-12-27 21:51:42.000+0000,1968-12-21 18:51:00.000+0000,2,1962,US Naval Academy,Apollo 8
