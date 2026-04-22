@@ -113,7 +113,7 @@ Basically, this approach is a multi-step process where we tell our coding agent 
 ### Sample prompts
 
 ### 5a. Prompt for generating the requirements doc
-_I am building a service layer project that exposes restful endpoints to create, read, update, and delete astronaut data in an Astra database. Please help me build a requirements.md document for this project with numbered IDs, acceptence criteria for each, personas and user flows. At this point, we will not be focusing on implementation details or technology choices._
+_I am building a service layer project that exposes restful endpoints to create, read, update, and delete astronaut and mission data in an Astra database. Please help me build a requirements.md document for this project with numbered IDs, acceptence criteria for each, personas and user flows. At this point, we will not be focusing on implementation details or technology choices._
 
 ### 5b. Prompt for generating the design doc and OpenAPI spec
 _Read the requirements.md document. From those requirements:_
