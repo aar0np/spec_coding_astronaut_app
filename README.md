@@ -7,6 +7,11 @@
 4. [Load data](#4-load-data)
 5. [Building the service layer](#5-building-the-service-layer)
 
+## Prerequisites:
+ - Python 3.10 or 3.11
+ - An Astra DB account
+ - An agentic coding tool (Cursor, Claude Code, IBM Bob)
+
 ## 1. Create your Astra DB Database
 
 You can skip to step 1b if you already have an Astra DB database.
