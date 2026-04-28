@@ -113,14 +113,13 @@ Basically, this approach is a multi-step process where we tell our coding agent 
 ### Sample prompts
 
 ### 5a. Prompt for generating the requirements doc
-_I am building a service layer project that exposes restful endpoints to create, read, update, and delete astronaut and mission data in an Astra database. Please help me build a requirements.md document for this project with numbered IDs, acceptence criteria for each, personas and user flows. At this point, we will not be focusing on implementation details or technology choices._
+_I am building a service layer project that exposes restful endpoints to create, read, update, and delete astronaut and spaceflight mission data in an Astra database. Please help me build a requirements.md document for this project with numbered IDs, acceptence criteria for each, personas and user flows. At this point, we will not be focusing on implementation details or technology choices._
 
 ### 5b. Prompt for generating the design doc and OpenAPI spec
 _Read the requirements.md document. From those requirements:_
 1. _Create a design.md file with data model and tables (using schema from the data/astronaut_schema.cql file)._
-2. _Inside the design.md file, detail the creation of a Python backend service layer using FastAPI, which allows for CRUD operations on the Astra database (referencing the .env file for the Astra database connection details). Use poetry for Python dependency management. Be sure that each endpoint maps back to a REQ-ID._
-3. _Also in the design.md file, detail the creation of Python data loader scripts which read the `data/astronauts.csv` and `data/astronauts_by_mission.csv` files and loads them into the Astra database (referencing the `.env` file for the Astra database connection details)._
-4. _Create an OpenAPI.yaml (OpenAPI 3.1) file that describes the endpoints and error responses of the FastAPI backend service layer._
+2. _Inside the design.md file, detail the creation of a Python backend service layer using FastAPI, which allows for CRUD operations on the two tables in the Astra database (referencing the .env file for the Astra database connection details). Use poetry for Python dependency management. Be sure that each endpoint maps back to a REQ-ID._
+3. _Create an OpenAPI.yaml (OpenAPI 3.1) file that describes the endpoints and error responses of the FastAPI backend service layer._
 
 ### 5c. Prompt for generating the TODO list
-_Read the requirements.md, design.md, and OpenAPI.yaml. From those requirements create a todo.md file that breaks down the tasks required to complete the project. Each of these tasks should be able to be marked done when complete._
+_Read the requirements.md, design.md, and OpenAPI.yaml. From those requirements create a todo.md file that breaks down the tasks required to complete the project. Each of these tasks should be able to be marked as done when complete._
