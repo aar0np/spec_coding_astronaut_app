@@ -6,6 +6,7 @@
 3. [Set up the Astra DB connection details](#3-connect-to-astra-db)
 4. [Load data](#4-load-data)
 5. [Building the service layer](#5-building-the-service-layer)
+6. [Building the Web UI][#6-building-the-web-ui)
 
 ## Prerequisites:
  - Python 3.10 or 3.11
@@ -128,3 +129,8 @@ _Read the requirements.md document. From those requirements:_
 
 ### 5c. Prompt for generating the TODO list
 _Read the requirements.md, design.md, and OpenAPI.yaml. From those requirements create a todo.md file that breaks down the tasks required to complete the project. Each of these tasks should be able to be marked as done when complete._
+
+## 6. Building the Web UI
+_*Bonus Step*_
+
+_Can you help me build a web ui on top of the service layer? It should be built in React.js and make use of the endpoints as defined in our openapi.yaml._
