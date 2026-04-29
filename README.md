@@ -123,7 +123,7 @@ _I am building a service layer project that exposes restful endpoints to create,
 ### 5b. Prompt for generating the design doc and OpenAPI spec
 _Read the requirements.md document. From those requirements:_
 1. _Create a design.md file with data model and tables (using schema from the data/astronaut_schema.cql file)._
-2. _Inside the design.md file, detail the creation of a Python backend service layer using FastAPI, which allows for CRUD operations on the two tables in the Astra database (referencing the .env file for the Astra database connection details). Use poetry for Python dependency management. Be sure that each endpoint maps back to a REQ-ID._
+2. _Inside the design.md file, detail the creation of a Python backend service layer using FastAPI, which allows for CRUD operations on the two tables in the Astra database (referencing the .env file for the Astra database connection details). The latest version of the astrapy library should be used to connect to Astra DB, so that the Table API methods can be leveraged. Use poetry for Python dependency management. Be sure that each endpoint maps back to a REQ-ID._
 3. _Create an OpenAPI.yaml (OpenAPI 3.1) file that describes the endpoints and error responses of the FastAPI backend service layer._
 
 ### 5c. Prompt for generating the TODO list
